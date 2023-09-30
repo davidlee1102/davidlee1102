@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlee1102)](https://github.com/davidlee1102/github-readme-stats)
 <!--
 **davidlee1102/davidlee1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
