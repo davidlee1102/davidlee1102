@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hunglenhat1102/](https://www.linkedin.com/in/hunglenhat1102/)
 
-- 📫 How to reach me **lenhathungdev112@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/hunglenhat1102/](https://www.linkedin.com/in/hunglenhat1102/)
 
 - ⚡ Fun fact **White Hat -> AI**
