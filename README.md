@@ -105,11 +105,7 @@ flowchart LR
 
 **Additional tools and platforms**
 
-`SQL` · `MLflow` · `MinIO` · `HUE` · `ThetaRay` · `GitHub Actions` · `Redis` · `RabbitMQ`
-
-### 📌 Featured project
-
-**[Apple Live Photo Convert](https://github.com/davidlee1102/apple_live_photo_convert)** — Python utilities for restoring and organising Apple Live Photos from HEIC and MOV files on macOS.
+`SQL` · `MLflow` · `MinIO` · `HUE` · `ThetaRay` · `GitHub Actions` · `Redis` · `RabbitMQ` · `ThetaRay` · `IAE` · `NetReveal` 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidlee1102&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats for davidlee1102" />
