@@ -20,7 +20,7 @@
 
 I'm an **AI Engineer and Data Scientist** working at the intersection of **machine learning, financial crime and credit risk**.
 
-At **Santander**, my experience spans fraud and anti-money-laundering analytics, behavioural modelling and risk engineering, including surveillance solutions operating across approximately **600 million retail transactions per month**.
+My experience spans fraud and anti-money-laundering analytics, behavioural modelling and risk engineering, including surveillance solutions operating across approximately **600 million retail transactions per month**.
 
 I enjoy taking ideas from statistical research through to reliable, interpretable systems that solve real problems.
 
